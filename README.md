@@ -1,1 +1,1 @@
-# go-graphql-db
+# go-graphql-hackernew
